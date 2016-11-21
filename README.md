@@ -1,8 +1,8 @@
 # Pragmatic Developer Guide
 
-Opinionated guidelines for Software Development Teams that work on the same code collaboratively in an agile way (working on new features in increments).
+Opinionated Guide for Software Development Teams that work on the same code collaboratively in an agile way (working on new features in increments).
 
-The guidelines have been proven to work in real projects and are tried to be kept as pragmatic as possible.
+The guidelines and proposed practices and tools have been proven to work in real projects and are tried to be kept as pragmatic as possible.
 
 ## How to reuse
 You can reuse this guide as a blueprint for your project's development guide in your own project.
