@@ -1,3 +1,4 @@
-# First Chapter
+# Commit & Branching Guidelines
+This guidelines cover the aspects of how to work with code under version control and with branches.
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
