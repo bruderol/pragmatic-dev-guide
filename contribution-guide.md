@@ -1,6 +1,6 @@
 # Contribution Guide
 
-This Guide is for contributors to this guide on how to contribute to this guidelines.
+This chapter is for contributors on how to contribute to these guidelines.
 
 ## Feedback / Ideas / Issues
 
