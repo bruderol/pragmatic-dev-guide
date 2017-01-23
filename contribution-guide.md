@@ -7,7 +7,7 @@ This Guide is for contributors to this guide on how to contribute to this guidel
 File your feedback or ideas for how to improve the guide as issue:
 https://github.com/bruderol/pragmatic-dev-guide/issues
 
-## Structure of the Guide
+## Content and Structure
 
 The guide is structured into different topic chapters. Each topic chapter is in a different markdown file.
 
